@@ -1,0 +1,703 @@
+************ : log created on : Thursday September 14 2023 @ 12:51:10
+00:00:00.000 : [sys] running on x86_64 / Windows 10 x64 (version 10.0)
+00:00:00.003 : [sys] Command line:  D:\Games\Euro Truck Simulator 2\bin\win_x64\eurotrucks2.exe
+00:00:00.003 : [cpu] CPU0: AuthenticAMD [AMD A4-3300 APU with Radeon(tm) HD Graphics] with 2 cores (2 threads) at ~2495MHz.
+00:00:00.003 : [sys] using 1 worker thread(s)
+00:00:00.003 : [sys] and 3 worker threads for IO.
+00:00:00.004 : [sys] plus 1 real-time worker threads.
+00:00:00.004 : [sys] using QPC / HPET timer, frequency 14318180Hz
+00:00:00.004 : [mem] physical total: 8164M
+00:00:00.004 : [mem] physical avail: 5987M
+00:00:00.004 : [mem] virtual total: 134217727M
+00:00:00.004 : [mem] virtual avail: 134213113M
+00:00:00.004 : [mem] Trying to allocate memory pool (1048576K)
+00:00:00.011 : [mem] Allocated 5 temporary loading buffer(s)
+00:00:00.085 : [xinput] Using XInput version 1.4.0
+00:00:00.194 : [hashfs] effect.scs: Created and validated, 14117 entries (0D8C2DAACAC7E3CCCBD00CCC3761A78F210EF48A691917508442B6963CEDD0AD)
+00:00:00.195 : [fs] device effect.scs mounted.
+00:00:00.616 : [hashfs] base.scs: Created and validated, 115913 entries (430AB3944F6AF21F2A188B7B745D524B45040E9CDEE5FBD31E67882215BFC8E3)
+00:00:00.616 : [fs] device base.scs mounted.
+00:00:00.622 : [hashfs] core.scs: Created and validated, 9 entries (AFEA6551093D865CE1199AFC169E60BF87CBC7CE69C83AA5D5C28219F07E6C14)
+00:00:00.622 : [fs] device core.scs mounted.
+00:00:01.704 : [hashfs] def.scs: Created and validated, 22707 entries (D77A1778AF11E0BE412B878E0B358826E5D2C6DBD38E6156F397DFC8D3CADEED)
+00:00:01.704 : [fs] device def.scs mounted.
+00:00:02.058 : [hashfs] locale.scs: Created and validated, 214 entries (BF66681DA82FCD5CC3B5CA0BC40C0AD9E65A82F24E890457FD0290183465EFDD)
+00:00:02.058 : [fs] device locale.scs mounted.
+00:00:02.065 : [hashfs] base_cfg.scs: Created and validated, 1 entries (ABD6AEB24D02CBD7BF5A8C6C62A413C49FC99F17B9FC8BB90B86AB337A319B1F)
+00:00:02.065 : [fs] device base_cfg.scs mounted.
+00:00:02.065 : [ufs] Home directory: 'C:/Users/eschi/OneDrive/Documentos/Euro Truck Simulator 2'.
+00:00:02.066 : [fs] device C:/Users/eschi/OneDrive/Documentos/Euro Truck Simulator 2 mounted.
+00:00:02.202 : [hashfs] dlc_actros_tuning.scs: Created and validated, 2612 entries (9E0D1980D3867B43DB732A22E23E150EE26EE43197636EEDB971148FC1D37BA7)
+00:00:02.645 : [hashfs] dlc_balkan_e.scs: Created and validated, 10793 entries (6BAE5317F0914D1F8BC165518F4BD70DE2B7FF694AFCD63859F2FF7B4D79EE2D)
+00:00:02.903 : [hashfs] dlc_balt.scs: Created and validated, 11672 entries (DC772466525C11C1052594892A963DB811D3151711CB23A3D5761C8309A6ADF2)
+00:00:02.944 : [hashfs] dlc_christmas.scs: Created and validated, 2754 entries (0CB2AFEDFF54D2395CFB48FFCBF2610DBC81270348197568AADC1B489A885721)
+00:00:03.004 : [hashfs] dlc_daf_tuning_pack.scs: Created and validated, 2539 entries (ABD276BEEC0E257DDF58FBDF2F0FA04287781E7F2ABCF186ACE9194ACA7AD0FE)
+00:00:03.029 : [hashfs] dlc_dragon.scs: Created and validated, 662 entries (3D2289C10A8F1EA1D20F68411DDAB47EF3846206E1980D3A222CF62F5807154F)
+00:00:03.068 : [hashfs] dlc_east.scs: Created and validated, 969 entries (0734E4D1EE69C5F2DFC8566D3BF291B776F52E173F8DE117516AA28080D98F5A)
+00:00:03.084 : [hashfs] dlc_fantasy.scs: Created and validated, 1586 entries (6531F49EF8FDCF3B0A9CFA448ED07CC0B64519B38B1578A7B1BA9AD939B21396)
+00:00:03.102 : [hashfs] dlc_flags_at.scs: Created and validated, 1036 entries (7796FCC2BD5645C37BC518537F27FD765B967F75E12F299427622A39BC41C7C0)
+00:00:03.119 : [hashfs] dlc_flags_aus.scs: Created and validated, 1255 entries (0D2A3FE7A13B56065FF71053781F15D706A4D5915BD16B0E7EEC8154313DE401)
+00:00:03.141 : [hashfs] dlc_flags_be.scs: Created and validated, 1328 entries (D499A24994140F8A8DD9F3BC07EB45633282818687F7F37B0421DBBA0B1ABCC9)
+00:00:03.201 : [hashfs] dlc_flags_bg.scs: Created and validated, 1097 entries (B81D99A5BF985594AF65035DBA0FC77C8D891C404982C881C009F43A302D5026)
+00:00:03.240 : [hashfs] dlc_flags_bz.scs: Created and validated, 1080 entries (CE7F09DF2CA22CB907E04C46E26B424A6076C2828006FC2453650762F872BC7D)
+00:00:03.265 : [hashfs] dlc_flags_ca.scs: Created and validated, 1097 entries (7CE3274F243A66AC23D8C9549C84C7828943B8039EF42E694767808236725C09)
+00:00:03.287 : [hashfs] dlc_flags_ch.scs: Created and validated, 926 entries (4C699DAFDA8148ABC942E8CD61D6D9076BF9E0868969B19CE57F4ACB5CBFA8ED)
+00:00:03.296 : [hashfs] dlc_flags_cn.scs: Created and validated, 970 entries (05296724B3D1F8A4B06860C8BF10C2ACE97325D9FED093055A3B4D48E14B8597)
+00:00:03.306 : [hashfs] dlc_flags_cz.scs: Created and validated, 1093 entries (9C9D15827D65FB6D4753042F42CC01789CB689023791DEC1169E8B215BC0BB46)
+00:00:03.316 : [hashfs] dlc_flags_de.scs: Created and validated, 1069 entries (BF7A104DA231FB2C00B8D11A09566488D78EB17B7CE61AF156E51E2D0CECE11E)
+00:00:03.325 : [hashfs] dlc_flags_dk.scs: Created and validated, 1023 entries (033DB36B1DB241E14150CEE99803D433DFD94831BCCA45836035FE95CB5CB80E)
+00:00:03.345 : [hashfs] dlc_flags_ee.scs: Created and validated, 1424 entries (C5D673FEE07FD7DB19896B09FE7FC503A622886209CCD0C8D9DE2DA839B19877)
+00:00:03.361 : [hashfs] dlc_flags_es.scs: Created and validated, 1497 entries (4D4363028DA557C36BA9363D1A589E1E3A8BC3FFEBE96AD9851818DACD5D4F49)
+00:00:03.371 : [hashfs] dlc_flags_fi.scs: Created and validated, 985 entries (5103DE84018B3AF2358DCC137A946828B329E5EC3880C601D73252B1B5459E6E)
+00:00:03.382 : [hashfs] dlc_flags_fr.scs: Created and validated, 1095 entries (53F6C907002A4E70A49D85FCD612A92563C7E8AD8528BE5F0B6EF5DDB95C4C52)
+00:00:03.392 : [hashfs] dlc_flags_hu.scs: Created and validated, 1212 entries (2ECF01E11F5AF4B9AB74BD86AFA69F29BCA9DC248779A242D4333BCD801C7852)
+00:00:03.404 : [hashfs] dlc_flags_ie.scs: Created and validated, 1076 entries (B3FC57FB61011A3AE5BB116A3A014BE186FFF6FF3184EEF4B6A2738724F2961A)
+00:00:03.414 : [hashfs] dlc_flags_it.scs: Created and validated, 994 entries (2267731BBC1B73DF4229D334B7B2AB5FBCA0C7643E6C036C87B17E53AD1F2C54)
+00:00:03.423 : [hashfs] dlc_flags_jp.scs: Created and validated, 1058 entries (917100BA58335BA786AF72D4760A09BCB95F739B3E40CEF1C9DBD5A684F45840)
+00:00:03.434 : [hashfs] dlc_flags_kr.scs: Created and validated, 1266 entries (4EBA723825B425F9A3F67C49F4C56A50A603FA3A9427EC3C13B9619FDBA92B1E)
+00:00:03.450 : [hashfs] dlc_flags_lt.scs: Created and validated, 1069 entries (47711F5F2B8AC8F7919B1F338D14C6BE574044ECC34E56D1107C5737BA4D0B87)
+00:00:03.467 : [hashfs] dlc_flags_lv.scs: Created and validated, 1037 entries (EDDBC21F8B6FB401FF96FFC24E25A3B8CD5F4C0A5355CAA14BB2B494071E2E75)
+00:00:03.477 : [hashfs] dlc_flags_n.scs: Created and validated, 1020 entries (FFE1F866E6EAEC94ABA68825BDD74D5C7DE198F0835693B73A257A092B805A10)
+00:00:03.494 : [hashfs] dlc_flags_nl.scs: Created and validated, 1145 entries (495DFE167824FCE922C5A31FA1233FA4F9470FE45CECF87D169C56605C17A3D8)
+00:00:03.503 : [hashfs] dlc_flags_pl.scs: Created and validated, 898 entries (907675C6411364A7F96FA7A86AD272B250C53F1051093B904841FA9CD706FB71)
+00:00:03.525 : [hashfs] dlc_flags_pt.scs: Created and validated, 1452 entries (70156A9520F695D4684C557C26AA9663D21421D200F7D80227E373F8B639247E)
+00:00:03.535 : [hashfs] dlc_flags_ro.scs: Created and validated, 976 entries (CA2F1EF417FC5B5D4D609CB578DAF5D5753C6FA8F81D2CE693CBCBCCF7CEA8AD)
+00:00:03.544 : [hashfs] dlc_flags_ru.scs: Created and validated, 1116 entries (E20609AB0CE9C54532EC2CFCB7EC9CFC9249ADEC843FF00319C27CF0E1681524)
+00:00:03.554 : [hashfs] dlc_flags_s.scs: Created and validated, 1110 entries (2F96917BDBA8B2322E7569A9E62D473EF4BC0D47E6CB0501922E3FC3AB8AAC63)
+00:00:03.564 : [hashfs] dlc_flags_sc.scs: Created and validated, 1141 entries (6A49DECEBFD3E1CB6C86A8E026F4E141C7BA692D81B4D41799D04C3C10FB0C0E)
+00:00:03.573 : [hashfs] dlc_flags_sk.scs: Created and validated, 950 entries (AEB092BC5F72224C129BE0A5E0234E13C917F4D9B5F26C7AB32E5F0F1D3ED0FF)
+00:00:03.583 : [hashfs] dlc_flags_tr.scs: Created and validated, 1113 entries (B951E88390CFE3093634B8C9E0FEEB9A656EF75F2985B59C034B05277CEDF013)
+00:00:03.594 : [hashfs] dlc_flags_uk.scs: Created and validated, 1006 entries (BD063F6E52C42EF13F84E7550D6120FF5AE25E137B2F428AC4B47357265AEE5E)
+00:00:03.603 : [hashfs] dlc_flags_us.scs: Created and validated, 1110 entries (C4D07E43ED0939A75EF24668038D007F0F1BEC4C566138640E52EBDE5BCBA399)
+00:00:03.671 : [hashfs] dlc_fr.scs: Created and validated, 3887 entries (B6B802A8DC0E0B32C673B2DF5E85369A0E8B93087BC06D49BD6C78EC8C196BE9)
+00:00:03.699 : [hashfs] dlc_goodyear.scs: Created and validated, 1403 entries (A7F8D347B4292F28C6D3E1C5B983C396A5FDA26E525B7DCBCD9BD0DA1F347C17)
+00:00:03.754 : [hashfs] dlc_halloween.scs: Created and validated, 2276 entries (3EC087AF1C78395BE8B65EBABBFAFC0DC8BA92A26195BEF02D95520EC4449A26)
+00:00:03.774 : [hashfs] dlc_heavy_cargo.scs: Created and validated, 838 entries (CD19708985ADD76B56DB6E5A6723CD3D0B24F171EBB272AC5614A039FE1AB61B)
+00:00:03.792 : [hashfs] dlc_hs_schoch.scs: Created and validated, 1538 entries (443AFF9439B09A9EAB1F760FBAD1508D7FFB84FD770D5E0179824F6CB021552A)
+00:00:03.938 : [hashfs] dlc_iberia.scs: Created and validated, 12244 entries (875AB6CECA8BD2507051E2AB06CDF072E6389C1F757DE161834F337DE3BC032E)
+00:00:04.017 : [hashfs] dlc_it.scs: Created and validated, 4566 entries (A0428CE7877349858F7A14D194691E8214C33A4AE5C8D6C59BFD0580101E02F9)
+00:00:04.062 : [hashfs] dlc_krone.scs: Created and validated, 3505 entries (40EA5A42CAF1B5B72AE309E935F2730BF8EFCEA88D237F99F9791C1934F27E49)
+00:00:04.109 : [hashfs] dlc_lunar_new_year.scs: Created and validated, 6209 entries (83911C0CC59D300EF0F6530D19F3B27E3E1EFE2F7CDA91C02C80A8CD7DDEB177)
+00:00:04.125 : [hashfs] dlc_metallics.scs: Created and validated, 568 entries (8715EB34EF2219D9C31E8629B9E2C7AFD81B2E4746E3C1EFE4F3141F97473F01)
+00:00:04.142 : [hashfs] dlc_metallics2.scs: Created and validated, 656 entries (FDF268AA4AB9013C8F3D59CC690399B5F00B76595F1DDBED2C6F7A71A22BCB37)
+00:00:04.154 : [hashfs] dlc_michelin.scs: Created and validated, 1184 entries (6182EA9254D8E01476B1B6EBBC37B9FFAF475B0C36FF0C352A1034953DC373AE)
+00:00:04.182 : [hashfs] dlc_mighty_griffin.scs: Created and validated, 2955 entries (E3DE88D2437ED20596B276F00CBFDE6B714FA634DE9479A25FDBB1CB46C7AAFB)
+00:00:04.197 : [hashfs] dlc_nature.scs: Created and validated, 2354 entries (4E0A3533CAD242881A3857660E2AD71A0960AE372F6DE7BBEF9BEC3369823C1E)
+00:00:04.307 : [hashfs] dlc_north.scs: Created and validated, 5581 entries (81D3F7622065D8D49BB88DB98B54F4EE06E11BF9701FF5F6BA3A543D0EBD761C)
+00:00:04.324 : [hashfs] dlc_oversize.scs: Created and validated, 673 entries (81C8E44D2C98D87DB08EF9D38A0501659804FBEF44D234383EFC2A31CE264826)
+00:00:04.329 : [hashfs] dlc_pcg.scs: Created and validated, 167 entries (EAD27D038A9E6CF3C0E9A0E30927D2BB29F56A4795072FB5C5BB286CBA28B848)
+00:00:04.597 : [hashfs] dlc_phys_flags.scs: Created and validated, 10558 entries (74ABAC197DD4F6E2A1BECE99C13EEE3DE041F58D5B4A824C4B50DFFF862D03BF)
+00:00:04.612 : [hashfs] dlc_pink_ribbon.scs: Created and validated, 918 entries (C568CC16F0A0106E441ACD97B8CC62251D122A504F99709C17EF9B63043A5D15)
+00:00:04.630 : [hashfs] dlc_pirates.scs: Created and validated, 2288 entries (294349B4622A22188DA08B4899EF9D4294DEB1CB3FE767C1F3F38C262A07884C)
+00:00:04.646 : [hashfs] dlc_prehistoric.scs: Created and validated, 2326 entries (2C90497B79F4D2F2F0769578228E20BC59A3FCC212795580A06320A8C76830BA)
+00:00:04.662 : [hashfs] dlc_raven.scs: Created and validated, 1346 entries (95F1A4ED91E5C7A9D3F4026622B06F69B444AE165602CA9CA959A9C591B58FEA)
+00:00:04.671 : [hashfs] dlc_rims.scs: Created and validated, 837 entries (CDB669421D319F853A859F3E164F74C180D0C70E560C5615102B1AF119771253)
+00:00:04.675 : [hashfs] dlc_rocket_league.scs: Created and validated, 142 entries (F79255E0ED0C4B87D4FD91EA0518CF3043991392D0D7880896FB5BBF8787730B)
+00:00:04.718 : [hashfs] dlc_schwarzmuller.scs: Created and validated, 3803 entries (E66EAB29D9B53B65379DE2E88BF2997D834240946D0F87D97748AB10B83F4EAA)
+00:00:04.744 : [hashfs] dlc_space.scs: Created and validated, 2060 entries (77D70E86B972BD86C406F00D7A0642ACE92D07E4AEE88B3ED600F4F753911991)
+00:00:04.771 : [hashfs] dlc_super_stripes.scs: Created and validated, 3081 entries (EFD0380E7EABC82D97AF9CB2A97AD48DC611A72904257926D908F292BDAC0498)
+00:00:04.821 : [hashfs] dlc_toys.scs: Created and validated, 2569 entries (D8793919687B1EAE5EFD369503E3113A51362E1BDE1F70F7A2D6C337C6C70326)
+00:00:04.857 : [hashfs] dlc_trailers.scs: Created and validated, 2246 entries (88E930105E49A5A72F771E8FFB99E6C8145BB3FC48DCBA149CD7CC3E0EAE3299)
+00:00:04.873 : [hashfs] dlc_valentine.scs: Created and validated, 1684 entries (220A432E97EB0D8C2CECBC993ABA32F84A0545AE99DEF9EDC9E128E33693C91B)
+00:00:04.885 : [hashfs] dlc_vikings.scs: Created and validated, 1564 entries (303A64767B04EB70564A3C4E93CE4D3D7EF5BB5EE3A6E960F11E94E6262A8FAD)
+00:00:04.913 : [hashfs] dlc_volvo_tuning_pack.scs: Created and validated, 2571 entries (3BCF7795DA871562818B9C0F12DDBB1B0C088C9EC0996D85ABD2C84EF11A1ACB)
+00:00:04.932 : [hashfs] dlc_winter.scs: Created and validated, 2590 entries (69DD6D01CDC79AFE7D939231605E5B7C520F8E980DC134386C65A2EF45CF5893)
+00:00:04.959 : [mod_package_manager] Requesting Steam Workshop content..
+00:00:04.967 : exec /home/config.cfg
+00:00:04.967 : [sys] Failed to execute (/home/config.cfg), the file does not exist.
+00:00:05.038 : [lang] Language autodetection: 416
+00:00:05.077 : Selected language: pt_br
+00:00:05.077 : Euro Truck Simulator 2 init ver.1.40.3.3s (rev. 921dac081ded)
+00:00:05.087 : [gfx] Selected rendering device: dx11
+00:00:05.118 : [gfx] NVAPI initialized
+00:00:05.123 : [gfx] AGS not detected. (6)
+00:00:05.158 : [net]  LOG INFO: Started
+00:00:05.193 : [fs] device  mounted.
+00:00:05.220 : Setting UI reference mode to: 1440x900...
+00:00:05.264 : [dxgi] Detected following adapters:
+00:00:05.270 : [dxgi] 0 - NVIDIA GeForce 210  (21.21.13.4201) [972 MB]
+00:00:05.270 : [gfx] Using the DXGI display backend
+00:00:05.336 : [dxgi] Using adapter: NVIDIA GeForce 210  (21.21.13.4201) [972 MB]
+00:00:05.359 : [dx11] Using SM4X rendering path
+00:00:05.360 : [dxgi] quirk - disabled exclusive fullscreen mode
+00:00:05.413 : <WARNING> [dxgi] quirk - refusing to enter fullscreen mode on this GPU
+00:00:05.449 : [disp] Adapter 0:  on DXGI backend
+00:00:05.449 : [disp] Output 0 : \\.\DISPLAY1 - CRTC @ (0, 0, 1920, 1080)
+00:00:05.449 : [disp] Detected color modes:
+00:00:05.449 : [disp] Mode 0 - SDR
+00:00:05.449 : [disp] Display MinLum: 0.500000, MaxLum 270.000000, MaxAvgLum: 270.000000
+00:00:05.449 : [disp] Mode 0 - 640x480 (32bpp) [59Hz]
+00:00:05.449 : [disp] Mode 1 - 640x480 (32bpp) [60Hz]
+00:00:05.449 : [disp] Mode 2 - 720x480 (32bpp) [59Hz]
+00:00:05.449 : [disp] Mode 3 - 720x480 (32bpp) [60Hz]
+00:00:05.449 : [disp] Mode 4 - 720x576 (32bpp) [50Hz]
+00:00:05.449 : [disp] Mode 5 - 800x600 (32bpp) [60Hz]
+00:00:05.449 : [disp] Mode 6 - 1024x768 (32bpp) [60Hz]
+00:00:05.449 : [disp] Mode 7 - 1152x864 (32bpp) [60Hz]
+00:00:05.449 : [disp] Mode 8 - 1152x864 (32bpp) [60Hz]
+00:00:05.449 : [disp] Mode 9 - 1176x664 (32bpp) [50Hz]
+00:00:05.449 : [disp] Mode 10 - 1176x664 (32bpp) [50Hz]
+00:00:05.450 : [disp] Mode 11 - 1176x664 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 12 - 1176x664 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 13 - 1176x664 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 14 - 1176x664 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 15 - 1280x720 (32bpp) [50Hz]
+00:00:05.450 : [disp] Mode 16 - 1280x720 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 17 - 1280x720 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 18 - 1280x768 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 19 - 1280x768 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 20 - 1280x800 (32bpp) [60Hz]
+00:00:05.450 : [disp] Mode 21 - 1280x800 (32bpp) [60Hz]
+00:00:05.450 : [disp] Mode 22 - 1280x960 (32bpp) [60Hz]
+00:00:05.450 : [disp] Mode 23 - 1280x960 (32bpp) [60Hz]
+00:00:05.450 : [disp] Mode 24 - 1280x1024 (32bpp) [60Hz]
+00:00:05.450 : [disp] Mode 25 - 1360x768 (32bpp) [59Hz]
+00:00:05.450 : [disp] Mode 26 - 1366x768 (32bpp) [23Hz]
+00:00:05.450 : [disp] Mode 27 - 1366x768 (32bpp) [23Hz]
+00:00:05.450 : [disp] Mode 28 - 1366x768 (32bpp) [24Hz]
+00:00:05.450 : [disp] Mode 29 - 1366x768 (32bpp) [24Hz]
+00:00:05.450 : [disp] Mode 30 - 1366x768 (32bpp) [29Hz]
+00:00:05.450 : [disp] Mode 31 - 1366x768 (32bpp) [29Hz]
+00:00:05.450 : [disp] Mode 32 - 1366x768 (32bpp) [30Hz]
+00:00:05.450 : [disp] Mode 33 - 1366x768 (32bpp) [30Hz]
+00:00:05.451 : [disp] Mode 34 - 1366x768 (32bpp) [50Hz]
+00:00:05.451 : [disp] Mode 35 - 1366x768 (32bpp) [50Hz]
+00:00:05.451 : [disp] Mode 36 - 1366x768 (32bpp) [60Hz]
+00:00:05.451 : [disp] Mode 37 - 1366x768 (32bpp) [60Hz]
+00:00:05.451 : [disp] Mode 38 - 1366x768 (32bpp) [59Hz]
+00:00:05.451 : [disp] Mode 39 - 1366x768 (32bpp) [59Hz]
+00:00:05.451 : [disp] Mode 40 - 1440x480 (32bpp) [23Hz]
+00:00:05.451 : [disp] Mode 41 - 1440x480 (32bpp) [23Hz]
+00:00:05.451 : [disp] Mode 42 - 1440x480 (32bpp) [24Hz]
+00:00:05.451 : [disp] Mode 43 - 1440x480 (32bpp) [24Hz]
+00:00:05.451 : [disp] Mode 44 - 1440x480 (32bpp) [29Hz]
+00:00:05.451 : [disp] Mode 45 - 1440x480 (32bpp) [29Hz]
+00:00:05.451 : [disp] Mode 46 - 1440x480 (32bpp) [30Hz]
+00:00:05.451 : [disp] Mode 47 - 1440x480 (32bpp) [30Hz]
+00:00:05.451 : [disp] Mode 48 - 1440x480 (32bpp) [50Hz]
+00:00:05.451 : [disp] Mode 49 - 1440x480 (32bpp) [50Hz]
+00:00:05.451 : [disp] Mode 50 - 1440x480 (32bpp) [60Hz]
+00:00:05.451 : [disp] Mode 51 - 1440x480 (32bpp) [60Hz]
+00:00:05.451 : [disp] Mode 52 - 1440x480 (32bpp) [59Hz]
+00:00:05.451 : [disp] Mode 53 - 1440x480 (32bpp) [59Hz]
+00:00:05.451 : [disp] Mode 54 - 1600x900 (32bpp) [23Hz]
+00:00:05.451 : [disp] Mode 55 - 1600x900 (32bpp) [23Hz]
+00:00:05.451 : [disp] Mode 56 - 1600x900 (32bpp) [24Hz]
+00:00:05.451 : [disp] Mode 57 - 1600x900 (32bpp) [24Hz]
+00:00:05.451 : [disp] Mode 58 - 1600x900 (32bpp) [29Hz]
+00:00:05.452 : [disp] Mode 59 - 1600x900 (32bpp) [29Hz]
+00:00:05.452 : [disp] Mode 60 - 1600x900 (32bpp) [30Hz]
+00:00:05.452 : [disp] Mode 61 - 1600x900 (32bpp) [30Hz]
+00:00:05.452 : [disp] Mode 62 - 1600x900 (32bpp) [50Hz]
+00:00:05.452 : [disp] Mode 63 - 1600x900 (32bpp) [50Hz]
+00:00:05.452 : [disp] Mode 64 - 1600x900 (32bpp) [60Hz]
+00:00:05.452 : [disp] Mode 65 - 1600x900 (32bpp) [60Hz]
+00:00:05.452 : [disp] Mode 66 - 1600x900 (32bpp) [59Hz]
+00:00:05.452 : [disp] Mode 67 - 1600x900 (32bpp) [59Hz]
+00:00:05.452 : [disp] Mode 68 - 1600x1024 (32bpp) [23Hz]
+00:00:05.452 : [disp] Mode 69 - 1600x1024 (32bpp) [23Hz]
+00:00:05.452 : [disp] Mode 70 - 1600x1024 (32bpp) [24Hz]
+00:00:05.452 : [disp] Mode 71 - 1600x1024 (32bpp) [24Hz]
+00:00:05.452 : [disp] Mode 72 - 1600x1024 (32bpp) [29Hz]
+00:00:05.452 : [disp] Mode 73 - 1600x1024 (32bpp) [29Hz]
+00:00:05.452 : [disp] Mode 74 - 1600x1024 (32bpp) [30Hz]
+00:00:05.452 : [disp] Mode 75 - 1600x1024 (32bpp) [30Hz]
+00:00:05.452 : [disp] Mode 76 - 1600x1024 (32bpp) [50Hz]
+00:00:05.452 : [disp] Mode 77 - 1600x1024 (32bpp) [50Hz]
+00:00:05.452 : [disp] Mode 78 - 1600x1024 (32bpp) [60Hz]
+00:00:05.452 : [disp] Mode 79 - 1600x1024 (32bpp) [60Hz]
+00:00:05.452 : [disp] Mode 80 - 1600x1024 (32bpp) [59Hz]
+00:00:05.452 : [disp] Mode 81 - 1600x1024 (32bpp) [59Hz]
+00:00:05.452 : [disp] Mode 82 - 1680x1050 (32bpp) [23Hz]
+00:00:05.452 : [disp] Mode 83 - 1680x1050 (32bpp) [23Hz]
+00:00:05.452 : [disp] Mode 84 - 1680x1050 (32bpp) [24Hz]
+00:00:05.452 : [disp] Mode 85 - 1680x1050 (32bpp) [24Hz]
+00:00:05.452 : [disp] Mode 86 - 1680x1050 (32bpp) [29Hz]
+00:00:05.452 : [disp] Mode 87 - 1680x1050 (32bpp) [29Hz]
+00:00:05.453 : [disp] Mode 88 - 1680x1050 (32bpp) [30Hz]
+00:00:05.453 : [disp] Mode 89 - 1680x1050 (32bpp) [30Hz]
+00:00:05.453 : [disp] Mode 90 - 1680x1050 (32bpp) [50Hz]
+00:00:05.453 : [disp] Mode 91 - 1680x1050 (32bpp) [50Hz]
+00:00:05.453 : [disp] Mode 92 - 1680x1050 (32bpp) [60Hz]
+00:00:05.453 : [disp] Mode 93 - 1680x1050 (32bpp) [60Hz]
+00:00:05.453 : [disp] Mode 94 - 1680x1050 (32bpp) [59Hz]
+00:00:05.453 : [disp] Mode 95 - 1680x1050 (32bpp) [59Hz]
+00:00:05.453 : [disp] Mode 96 - 1920x1080 (32bpp) [23Hz]
+00:00:05.453 : [disp] Mode 97 - 1920x1080 (32bpp) [24Hz]
+00:00:05.453 : [disp] Mode 98 - 1920x1080 (32bpp) [29Hz]
+00:00:05.453 : [disp] Mode 99 - 1920x1080 (32bpp) [30Hz]
+00:00:05.453 : [disp] Mode 100 - 1920x1080 (32bpp) [50Hz]
+00:00:05.453 : [disp] Mode 101 - 1920x1080 (32bpp) [60Hz]
+00:00:05.453 : [disp] Mode 102 - 1920x1080 (32bpp) [59Hz]
+00:00:05.715 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.default' (of type 'default_setup_config').
+00:00:05.715 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.minimum' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.deferred.lower' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.deferred.medium' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.460' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.285' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.250' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.ati.hd.4850' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gt.220' (of type 'default_setup_config').
+00:00:05.716 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gtx.7800' (of type 'default_setup_config').
+00:00:05.717 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gt.7600' (of type 'default_setup_config').
+00:00:05.717 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.ati.hd.4550' (of type 'default_setup_config').
+00:00:05.717 : <WARNING> Ignoring obsolete attribute 'hdr' of unit '_nameless.config.nv.gs.8400' (of type 'default_setup_config').
+00:00:05.719 : [gfx] Considered entries:
+00:00:05.719 :   NVIDIA GeForce 210 0x0A65
+00:00:06.267 : [sound] Available drivers: #2
+00:00:06.270 : [sound] Driver 0 = LG TV-1 (2- NVIDIA High Definition Audio) (48000 Hz) ({757f3609-6f26-410a-af98-c04f7f44800a})
+00:00:06.273 : [sound] Driver 1 = Alto-falantes (VIA High Definition Audio) (48000 Hz) ({52619c27-b468-417b-b1df-4151d3bdf7d1})
+00:00:06.434 : [sound] Selecting default audio driver (0).
+00:00:06.870 : [mod_package_manager] Received list of the steam workshop subscribed mods. (received 0 mods total, 0 loaded, 0 scheduled for download)
+00:00:06.870 : [di8] Initializing device '@@keyboard@@' as 'keyboard'
+00:00:06.877 : [di8] Initializing device '@@i_mouse@@' as 'mouse'
+00:00:07.514 : dispatch
+00:00:07.514 : exit
+00:00:07.926 : <WARNING> Light source 'lamp.gas.light': Overriding range (16.0) being too close to cut_range (12.0). Make sure range is greater than '3 * cut_range' or at least '2 * cut_range' (10% error).
+00:00:08.458 : [bullet] Starting physics server: Bullet
+00:00:26.893 : mm_flush_repeatedly
+00:00:26.902 : [fs] device dlc_actros_tuning.scs mounted.
+00:00:26.902 : [fs] device dlc_balkan_e.scs mounted.
+00:00:26.902 : [fs] device dlc_balt.scs mounted.
+00:00:26.903 : [fs] device dlc_christmas.scs mounted.
+00:00:26.903 : [fs] device dlc_daf_tuning_pack.scs mounted.
+00:00:26.903 : [fs] device dlc_dragon.scs mounted.
+00:00:26.903 : [fs] device dlc_east.scs mounted.
+00:00:26.903 : [fs] device dlc_fantasy.scs mounted.
+00:00:26.903 : [fs] device dlc_flags_at.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_aus.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_be.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_bg.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_bz.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_ca.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_ch.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_cn.scs mounted.
+00:00:26.904 : [fs] device dlc_flags_cz.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_de.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_dk.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_ee.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_es.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_fi.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_fr.scs mounted.
+00:00:26.905 : [fs] device dlc_flags_hu.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_ie.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_it.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_jp.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_kr.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_lt.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_lv.scs mounted.
+00:00:26.906 : [fs] device dlc_flags_n.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_nl.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_pl.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_pt.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_ro.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_ru.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_s.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_sc.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_sk.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_tr.scs mounted.
+00:00:26.907 : [fs] device dlc_flags_uk.scs mounted.
+00:00:26.908 : [fs] device dlc_flags_us.scs mounted.
+00:00:26.908 : [fs] device dlc_fr.scs mounted.
+00:00:26.908 : [fs] device dlc_goodyear.scs mounted.
+00:00:26.908 : [fs] device dlc_halloween.scs mounted.
+00:00:26.908 : [fs] device dlc_heavy_cargo.scs mounted.
+00:00:26.909 : [fs] device dlc_hs_schoch.scs mounted.
+00:00:26.909 : [fs] device dlc_iberia.scs mounted.
+00:00:26.909 : [fs] device dlc_it.scs mounted.
+00:00:26.909 : [fs] device dlc_krone.scs mounted.
+00:00:26.909 : [fs] device dlc_lunar_new_year.scs mounted.
+00:00:26.909 : [fs] device dlc_metallics.scs mounted.
+00:00:26.909 : [fs] device dlc_metallics2.scs mounted.
+00:00:26.910 : [fs] device dlc_michelin.scs mounted.
+00:00:26.910 : [fs] device dlc_mighty_griffin.scs mounted.
+00:00:26.910 : [fs] device dlc_nature.scs mounted.
+00:00:26.910 : [fs] device dlc_north.scs mounted.
+00:00:26.910 : [fs] device dlc_oversize.scs mounted.
+00:00:26.910 : [fs] device dlc_pcg.scs mounted.
+00:00:26.911 : [fs] device dlc_phys_flags.scs mounted.
+00:00:26.911 : [fs] device dlc_pink_ribbon.scs mounted.
+00:00:26.911 : [fs] device dlc_pirates.scs mounted.
+00:00:26.911 : [fs] device dlc_prehistoric.scs mounted.
+00:00:26.911 : [fs] device dlc_raven.scs mounted.
+00:00:26.911 : [fs] device dlc_rims.scs mounted.
+00:00:26.911 : [fs] device dlc_rocket_league.scs mounted.
+00:00:26.912 : [fs] device dlc_schwarzmuller.scs mounted.
+00:00:26.912 : [fs] device dlc_space.scs mounted.
+00:00:26.912 : [fs] device dlc_super_stripes.scs mounted.
+00:00:26.912 : [fs] device dlc_toys.scs mounted.
+00:00:26.912 : [fs] device dlc_trailers.scs mounted.
+00:00:26.912 : [fs] device dlc_valentine.scs mounted.
+00:00:26.913 : [fs] device dlc_vikings.scs mounted.
+00:00:26.913 : [fs] device dlc_volvo_tuning_pack.scs mounted.
+00:00:26.913 : [fs] device dlc_winter.scs mounted.
+00:00:26.917 : Creating backup of local profiles inside '/home/profiles(1.40.3.3s).bak'
+00:00:26.917 : Local profiles backup complete
+00:00:26.917 : Creating backup of steam profiles inside '/home/steam_profiles(1.40.3.3s).bak'
+00:00:26.918 : Steam profiles backup complete
+00:00:26.920 : Profiles backup complete
+00:02:04.826 : Profile 'Enéas Alves' created.
+00:02:04.845 : uset s_voiceover_mute "0"
+00:02:04.845 : uset s_intro_music_mute "0"
+00:02:04.846 : uset s_ui_music_mute "0"
+00:02:04.846 : uset s_ui_mute "0"
+00:02:04.846 : uset s_navigation_mute "0"
+00:02:04.846 : uset s_music_mute "0"
+00:02:04.846 : uset s_radio_mute "0"
+00:02:04.846 : uset s_interior_mute "0"
+00:02:04.846 : uset s_ambient_mute "0"
+00:02:04.846 : uset s_world_mute "0"
+00:02:04.846 : uset s_traffic_mute "0"
+00:02:04.846 : uset s_trailer_mute "0"
+00:02:04.846 : uset s_truck_noise_mute "0"
+00:02:04.846 : uset s_truck_effects_mute "0"
+00:02:04.846 : uset s_truck_turbo_mute "0"
+00:02:04.846 : uset s_truck_exhaust_mute "0"
+00:02:04.846 : uset s_truck_engine_mute "0"
+00:02:04.846 : uset s_master_mute "0"
+00:02:04.846 : uset s_voiceover_volume "0.5"
+00:02:04.846 : uset s_intro_music_volume "0.5"
+00:02:04.846 : uset s_ui_music_volume "0.5"
+00:02:04.846 : uset s_ui_volume "0.5"
+00:02:04.846 : uset s_navigation_volume "0.5"
+00:02:04.847 : uset s_music_volume "0.5"
+00:02:04.847 : uset s_radio_volume "0.5"
+00:02:04.847 : uset s_interior_volume "0.5"
+00:02:04.847 : uset s_ambient_volume "0.5"
+00:02:04.847 : uset s_world_volume "0.5"
+00:02:04.847 : uset s_traffic_volume "0.5"
+00:02:04.847 : uset s_trailer_volume "0.5"
+00:02:04.847 : uset s_truck_noise_volume "0.5"
+00:02:04.847 : uset s_truck_effects_volume "0.5"
+00:02:04.847 : uset s_truck_turbo_volume "0.5"
+00:02:04.847 : uset s_truck_exhaust_volume "0.5"
+00:02:04.847 : uset s_truck_engine_volume "0.5"
+00:02:04.847 : uset s_master_volume "0.75"
+00:02:04.847 : uset i_oculus_eye_protrusion "0.09"
+00:02:04.847 : uset i_oculus_eye_height "0.15"
+00:02:04.847 : uset i_hmd_max_prediction "0.1"
+00:02:04.847 : uset i_hmd_min_prediction "0.0"
+00:02:04.847 : uset r_interior "1"
+00:02:04.847 : uset r_steering_wheel "1"
+00:02:04.847 : uset g_eye_preset_5 ""
+00:02:04.848 : uset g_eye_preset_4 ""
+00:02:04.848 : uset g_eye_preset_3 ""
+00:02:04.848 : uset g_eye_preset_2 ""
+00:02:04.848 : uset g_eye_preset_1 ""
+00:02:04.848 : uset g_eye_enable "0"
+00:02:04.848 : uset g_cam_window_block "0.0"
+00:02:04.848 : uset g_toy_physics "1"
+00:02:04.848 : uset g_cam_steering_reverse "1.0"
+00:02:04.848 : uset g_cam_steering_value "1.0"
+00:02:04.848 : uset g_cam_steering "0"
+00:02:04.848 : uset g_pedal_clutch_range "1.0"
+00:02:04.848 : uset g_brake_intensity "1.0"
+00:02:04.848 : uset g_steer_autocenter "1"
+00:02:04.848 : uset g_clutch_brake "0"
+00:02:04.848 : uset g_hshifter_synchronized "1"
+00:02:04.848 : uset g_hshifter_split "3"
+00:02:04.848 : uset g_hshifter_layout_shifting "1"
+00:02:04.848 : uset g_hshifter_layout "splitter"
+00:02:04.848 : uset g_trans "0"
+00:02:04.848 : uset g_baked_vehicle "1"
+00:02:04.848 : uset g_force_economy_reset "0"
+00:02:04.848 : uset g_input_configured "0"
+00:02:04.867 : uset s_reverb_world "1"
+00:02:04.867 : uset s_reverb_cabin "1"
+00:02:04.867 : uset s_noise_aero "1"
+00:02:04.867 : uset s_noise_windows "1"
+00:02:04.867 : uset s_rumble_enabled "1"
+00:02:04.867 : uset s_reverse_enabled "1"
+00:02:04.867 : uset g_disable_beacons "0"
+00:02:04.867 : uset g_show_game_elements "1"
+00:02:04.867 : uset g_hmd_no_3d_background "0"
+00:02:04.867 : uset g_hmd_no_special_menu "0"
+00:02:04.867 : uset g_hmd_reduced_cabin_movement "1"
+00:02:04.867 : uset g_hmd_no_artifical_movement "0"
+00:02:04.867 : uset g_eye_pause_gaze "3000"
+00:02:04.867 : uset g_eye_pause "0"
+00:02:04.868 : uset g_cam_blinker "0"
+00:02:04.868 : uset g_cam_physics_value "1.0"
+00:02:04.868 : uset g_cam_physics "1"
+00:02:04.868 : uset g_blinker_auto_off "1"
+00:02:04.868 : uset g_cruise_control_smart "5.0"
+00:02:04.868 : uset g_cruise_control_grid "5.0"
+00:02:04.868 : uset g_adaptive_shift "0.0"
+00:02:04.868 : uset g_fuel_simulation "0"
+00:02:04.868 : uset g_hardcore_simulation "0"
+00:02:04.868 : uset g_reg_setting "reg_setting.europe"
+00:02:04.868 : uset g_brake_light_all "0"
+00:02:04.868 : uset g_use_speed_limiter "1"
+00:02:04.868 : uset g_hud_speed_warning "0"
+00:02:04.868 : uset g_hud_speed_limit "1"
+00:02:04.868 : uset g_axle_drop_auto "1"
+00:02:04.868 : uset g_engine_start_auto "1"
+00:02:04.868 : uset g_motor_brake_auto "0"
+00:02:04.868 : uset g_retarder_auto "0"
+00:02:04.868 : uset g_cabin_suspension_stiffness "1.0"
+00:02:04.868 : uset g_suspension_stiffness "1.0"
+00:02:04.868 : uset g_trailer_stability "0.5"
+00:02:04.869 : uset g_truck_stability "0.5"
+00:02:04.869 : uset g_mpg "0"
+00:02:04.869 : uset g_gallon "0"
+00:02:04.869 : uset g_fahrenheit "0"
+00:02:04.869 : uset g_pounds "kg"
+00:02:04.869 : uset g_mph "0"
+00:02:04.869 : uset g_road_events "1.0"
+00:02:04.869 : uset g_detours "1.0"
+00:02:04.869 : uset g_name_localization_secondary "0"
+00:02:04.869 : uset g_name_localization "1"
+00:02:04.869 : uset g_lang_set "1"
+00:02:04.869 : uset g_lang "pt_br"
+00:02:04.869 : uset g_cutscenes "1"
+00:02:04.869 : uset g_phys_mirrors "0"
+00:02:04.869 : uset g_world_map_zoom "0"
+00:02:04.869 : uset g_cargo_load_require_park_brake "0"
+00:02:04.869 : uset g_cargo_load_require_engine_off "1"
+00:02:04.869 : uset g_show_always_wotr_event "0"
+00:02:04.869 : uset g_last_wotr_event_start "0"
+00:02:04.869 : uset g_force_load_selector "0"
+00:02:04.869 : uset g_autoload_ignore_autosave "0"
+00:02:04.870 : uset g_start_in_truck "0"
+00:02:04.870 : uset g_park_brake_init "0"
+00:02:04.870 : uset g_trailer_advanced_coupling "0"
+00:02:04.870 : uset g_parking_difficulty "0"
+00:02:04.870 : uset g_simple_parking_doubles "1"
+00:02:04.870 : uset g_speed_warning "0"
+00:02:04.870 : uset g_voice_navigation_pack ""
+00:02:04.870 : uset g_voice_navigation "0"
+00:02:04.870 : uset g_job_distance "1.0"
+00:02:04.870 : uset g_job_distance_limit "-1.0"
+00:02:04.870 : uset g_income_factor "1.0"
+00:02:04.870 : uset g_currency "0"
+00:02:04.870 : uset g_bad_weather_factor "0.07"
+00:02:04.870 : uset g_truck_analysis_fold "0"
+00:02:04.870 : uset g_desktop_rnd "0"
+00:02:04.871 : uset g_desktop_bcg "config"
+00:02:04.871 : uset g_save_idx "1"
+00:02:04.871 : uset g_ui_map_align "1"
+00:02:04.871 : uset g_gps_routing_mode "0"
+00:02:04.871 : uset g_gps_navigation "3"
+00:02:04.871 : uset g_heavy_cargo_popup "1"
+00:02:04.871 : uset g_mirrors "1"
+00:02:04.871 : uset g_adviser_eta "1"
+00:02:04.871 : uset g_adviser_running_message "1"
+00:02:04.871 : uset g_adviser_auto_parking "1"
+00:02:04.871 : uset g_adviser_keep_hidden "0"
+00:02:04.871 : uset g_adviser "1"
+00:02:04.871 : uset g_desktop_tutorial "1"
+00:02:04.871 : uset g_tutorial "1"
+00:02:04.871 : uset g_fatigue "1"
+00:02:04.871 : uset g_time_zones "0"
+00:02:04.871 : uset g_police "1"
+00:02:04.872 : uset g_subtitles "0"
+00:02:04.872 : uset g_clock_24 "1"
+00:02:05.305 : [inp] Device change detected
+00:02:06.288 : [inp] Initial evaluation
+00:02:06.288 : [inp] Classifying devices
+00:02:06.288 : [inp] Applying input.clutch.default
+00:02:06.288 : [inp] Applying input.look.default
+00:02:06.289 : [inp] Applying input.gearbox.updown.default
+00:02:06.289 : [inp] Applying input.gearbox.drive.default
+00:02:06.289 : [inp] Applying input.gearbox.hshifter.default
+00:02:06.289 : [inp] Applying input.gearbox.hshifter.switch.default
+00:02:06.289 : [inp] No steering axis found, fallback selection
+00:02:06.290 : [inp] Trying to find a valid combination
+00:02:06.290 : [inp] No combination found.
+00:02:06.290 : [inp] Applying input.steer.default
+00:02:06.290 : [inp] Applying input.pedals.default
+00:02:06.290 : [inp] Applying input.clutch.default
+00:02:06.290 : [inp] Applying input.look.default
+00:02:06.291 : [inp] Applying input.gearbox.updown.default
+00:02:06.291 : [inp] Applying input.gearbox.drive.default
+00:02:06.291 : [inp] Applying input.gearbox.hshifter.default
+00:02:06.291 : [inp] Applying input.gearbox.hshifter.switch.default
+00:02:08.221 : [inp] Looking for new devices
+00:02:11.222 : [inp] Looking for new devices
+00:02:14.222 : [inp] Looking for new devices
+00:02:14.955 : Wizard skipped.
+00:02:15.389 : game
+00:02:15.618 : <WARNING> Light source 'lamp.gas.light': Overriding range (16.0) being too close to cut_range (12.0). Make sure range is greater than '3 * cut_range' or at least '2 * cut_range' (10% error).
+00:02:15.680 : [bullet] Starting physics server: Bullet
+00:02:15.981 : Loaded trailers: 112
+00:02:16.024 : Loaded traffic trailers of type 'truck_semi': 30
+00:02:16.028 : Loaded traffic trailers of type 'truck_long': 0
+00:02:16.032 : Loaded traffic trailers of type 'train_cargo': 6
+00:02:16.037 : Loaded traffic trailers of type 'car': 2
+00:02:16.041 : Loaded traffic trailers of type 'bus': 1
+00:02:16.045 : Loaded traffic trailers of type 'truck': 0
+00:02:16.053 : Loaded traffic trailers of type 'tram': 24
+00:02:16.062 : Loaded traffic trailers of type 'train': 51
+00:02:16.072 : Loaded traffic trailers of type 'custom': 23
+00:02:16.109 : Loaded traffic vehicles of type 'car': 78
+00:02:16.113 : Loaded traffic vehicles of type 'car_city': 1
+00:02:16.122 : Loaded traffic vehicles of type 'car_custom': 30
+00:02:16.139 : Loaded traffic vehicles of type 'truck': 42
+00:02:16.147 : Loaded traffic vehicles of type 'truck_light': 12
+00:02:16.155 : Loaded traffic vehicles of type 'truck_medium': 3
+00:02:16.158 : Loaded traffic vehicles of type 'truck_long': 0
+00:02:16.163 : Loaded traffic vehicles of type 'truck_city': 4
+00:02:16.167 : Loaded traffic vehicles of type 'truck_custom': 3
+00:02:16.174 : Loaded traffic vehicles of type 'bus': 6
+00:02:16.178 : Loaded traffic vehicles of type 'bus_city': 0
+00:02:16.182 : Loaded traffic vehicles of type 'bus_custom': 1
+00:02:16.188 : Loaded traffic vehicles of type 'tram': 16
+00:02:16.194 : Loaded traffic vehicles of type 'train': 13
+00:02:16.201 : Loaded traffic vehicles of type 'train_wire': 22
+00:02:16.216 : Loaded traffic vehicles of type 'police': 36
+00:02:16.223 : Loaded traffic vehicles of type 'fire': 21
+00:02:16.229 : Loaded traffic vehicles of type 'medical': 17
+00:02:16.233 : Loaded traffic vehicles of type 'escort_front': 1
+00:02:16.238 : Loaded traffic vehicles of type 'escort_back': 1
+00:02:16.243 : Loaded traffic vehicles of type 'custom': 7
+00:02:16.269 : Loaded addon hookups: 143
+00:02:16.273 : Loading resource server data ....
+00:02:16.273 : Loading vegetation data ....
+00:02:16.304 : Loading traffic rule data ....
+00:02:16.307 : Loading traffic semaphore data ....
+00:02:16.322 : Loading road data ....
+00:02:16.344 : Loading terrain data ....
+00:02:16.374 : Loading railing data ....
+00:02:16.381 : Loading building data ....
+00:02:16.435 : Loading model data ....
+00:02:16.507 : Loading animated models ....
+00:02:16.556 : Loading prefab data ....
+00:02:23.445 : Loading sign data ....
+00:02:23.540 : Loading sign template data ....
+00:02:23.591 : Loading city data ....
+00:02:23.694 : Loading country data ....
+00:02:23.763 : Linking cities with countries ....
+00:02:23.766 : Loading stamp data ....
+00:02:23.779 : Loading sound item reverbs ....
+00:02:23.780 : Loading sound item data ....
+00:02:23.783 : Loading sound ambient ....
+00:02:23.784 : Loading live stream data ....
+00:02:23.786 : Loading movers data ....
+00:02:28.184 : Loading ferry data ....
+00:02:28.218 : Loading hinges data ....
+00:02:28.228 : Loading trigger action data ....
+00:02:28.230 : Loading cutscene data ....
+00:02:28.259 : Loading routes data ....
+00:02:28.265 : Loading overrides ....
+00:02:28.269 : Loading cargo data ....
+00:02:28.362 : Loading company cargo data ....
+00:02:30.253 : Loading unlock data ....
+00:02:30.276 : Loading oversize offer data ....
+00:02:30.873 : Map '/map/europe.mbd' loading started ....
+00:02:37.119 : Map base sectors successfully loaded.
+00:02:37.167 : Map loaded
+00:02:37.171 : <ERROR> Game state load failed. Game state will be restored from the initial save.
+00:02:37.259 : Route data generation started.
+00:02:38.894 : Route data generation finished.
+00:02:38.912 : Economy reset - company mismatch
+00:02:39.030 : Road network navigation caching started.
+00:07:16.062 : Garage update started.
+00:07:16.267 : Garage update finished.
+00:07:16.272 : Creating save-game file (/steam/profiles/456EC3A9617320416C766573/save/autosave/game.sii) ...
+00:08:19.129 : Creating save-game file (/steam/profiles/456EC3A9617320416C766573/save/autosave/game.sii) ...
+00:08:19.154 : First job selected from: posped.bremen to lkwlog.hamburg
+00:08:19.883 : <WARNING> Another save is under way!
+00:08:21.040 : Sector force started.
+00:08:21.290 : Sector force finished.
+00:08:22.116 : [actor] Initialized at [-4712.6;4.8;-14188.1]
+00:08:22.168 : Sector force started.
+00:08:23.883 : Sector force finished.
+00:08:54.705 : <WARNING> Startup watch dog triggered!
+00:08:54.712 : Incompatible save game loaded.
+00:08:54.789 : [trigger] Handled action ([custom] command: 'ui_create' params: 'msg' '/ui/cutscene_msg.sii' )
+00:08:55.939 : <WARNING> [trigger] Command 'ui_text' is obsolete, please use 'ui_value' instead
+00:08:55.940 : [trigger] Handled action ([custom] command: 'ui_text' params: 'msg' '| 0 | <color value=@@clr_white@@>@@intro_1@@  | 5 | @@intro_2@@  | 6 | @@intro_3@@  |)
+00:08:55.940 : [trigger] Handled action ([custom] command: 'music' params: '/sound/music/cutscene.soundref' 0.5 )
+00:08:58.238 : [trigger] Handled action ([custom] command: 'ui_show' params: 'msg' )
+00:09:21.818 : [trigger] Reset action ([custom] command: 'music' params: '/sound/music/cutscene.soundref' 0.5 )
+00:09:21.818 : [trigger] Reset action ([custom] command: 'ui_create' params: 'msg' '/ui/cutscene_msg.sii' )
+00:09:52.657 : <WARNING> Startup watch dog triggered!
+00:10:28.792 : quit
+00:10:28.793 : Creating save-game file (/steam/profiles/456EC3A9617320416C766573/save/autosave/game.sii) ...
+00:10:29.267 : [sound] Sound library - shutdown.
+00:10:29.267 : [sound] Sound system - shutdown.
+00:10:29.617 : [sound] FMOD libraries released.
+00:10:29.999 : [gfx] NVAPI unloaded
+00:10:30.028 : [net]  LOG INFO: Stopped
+00:10:30.028 : [hashfs] dlc_winter.scs: Unmounted.
+00:10:30.028 : [hashfs] dlc_volvo_tuning_pack.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_vikings.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_valentine.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_trailers.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_toys.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_super_stripes.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_space.scs: Unmounted.
+00:10:30.029 : [hashfs] dlc_schwarzmuller.scs: Unmounted.
+00:10:30.030 : [hashfs] dlc_rocket_league.scs: Unmounted.
+00:10:30.030 : [hashfs] dlc_rims.scs: Unmounted.
+00:10:30.030 : [hashfs] dlc_raven.scs: Unmounted.
+00:10:30.030 : [hashfs] dlc_prehistoric.scs: Unmounted.
+00:10:30.030 : [hashfs] dlc_pirates.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_pink_ribbon.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_phys_flags.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_pcg.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_oversize.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_north.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_nature.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_mighty_griffin.scs: Unmounted.
+00:10:30.031 : [hashfs] dlc_michelin.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_metallics2.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_metallics.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_lunar_new_year.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_krone.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_it.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_iberia.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_hs_schoch.scs: Unmounted.
+00:10:30.032 : [hashfs] dlc_heavy_cargo.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_halloween.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_goodyear.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_fr.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_us.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_uk.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_tr.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_sk.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_sc.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_s.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_ru.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_ro.scs: Unmounted.
+00:10:30.033 : [hashfs] dlc_flags_pt.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_pl.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_nl.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_n.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_lv.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_lt.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_kr.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_jp.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_it.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_ie.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_hu.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_fr.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_fi.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_es.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_ee.scs: Unmounted.
+00:10:30.034 : [hashfs] dlc_flags_dk.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_de.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_cz.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_cn.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_ch.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_ca.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_bz.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_bg.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_be.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_aus.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_flags_at.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_fantasy.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_east.scs: Unmounted.
+00:10:30.035 : [hashfs] dlc_dragon.scs: Unmounted.
+00:10:30.036 : [hashfs] dlc_daf_tuning_pack.scs: Unmounted.
+00:10:30.036 : [hashfs] dlc_christmas.scs: Unmounted.
+00:10:30.036 : [hashfs] dlc_balt.scs: Unmounted.
+00:10:30.036 : [hashfs] dlc_balkan_e.scs: Unmounted.
+00:10:30.036 : [hashfs] dlc_actros_tuning.scs: Unmounted.
+00:10:30.036 : [hashfs] base_cfg.scs: Unmounted.
+00:10:30.036 : [hashfs] locale.scs: Unmounted.
+00:10:30.036 : [hashfs] def.scs: Unmounted.
+00:10:30.036 : [hashfs] core.scs: Unmounted.
+00:10:30.036 : [hashfs] base.scs: Unmounted.
+00:10:30.037 : [hashfs] effect.scs: Unmounted.
+00:10:30.704 : [sys] Process manager shutdown.
